@@ -1,0 +1,10 @@
+ 
+p#definicion{
+    color: blue;
+}
+p{
+    color: green;
+}
+p.navegador{
+color: red;
+}
